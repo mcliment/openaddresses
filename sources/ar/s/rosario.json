@@ -1,0 +1,12 @@
+{
+  "coverage": {
+    "geometry": {"type": "Point", "coordinates": [-60.673, -32.952]}
+  },
+  "data": "http://datos.rosario.gob.ar/sites/default/files/nomenclador_de_calles.gml",
+  "type": "http",
+  "conform": {
+    "id": "ID_CALLE",
+    "number": "UBICACION",
+    "street": "NOMBRE"
+  }
+}
